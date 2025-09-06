@@ -28,7 +28,6 @@ int main(){
         case 5:printf("Convertisseur sur Secondes : %d\n" ,annee*365 * 24 * 60* 60);break;
         default:printf("Choix invalide, reessaye.\n");
     }
-    
     } while (n !=6);
 
 }
